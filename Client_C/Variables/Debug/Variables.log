@@ -1,0 +1,8 @@
+﻿  Variables.c
+C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Variables\Variables.c(12,15): warning C4101: 'ui' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Variables\Variables.c(15,7): warning C4101: 'ㅣ' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Variables\Variables.c(13,8): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Variables\Variables.c(19,7): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Variables\Variables.c(14,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Variables\Variables.c(16,12): warning C4101: 'll' :참조되지 않은 지역 변수입니다.
+  Variables.vcxproj -> C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Debug\Variables.exe

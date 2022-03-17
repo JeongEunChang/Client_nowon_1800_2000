@@ -5,7 +5,17 @@
       "ProjectGuid": "620d5791-b00b-4d1d-b80d-04dd57f31942",
       "DisplayName": "Client_FirstProject",
       "ColorIndex": 0
+    },
+    "5acdf72f-400a-4027-9916-81570d29a654": {
+      "ProjectGuid": "5acdf72f-400a-4027-9916-81570d29a654",
+      "DisplayName": "ConstantExpression",
+      "ColorIndex": 1
+    },
+    "fc2ea636-5881-405d-af13-1f4f6e7edf00": {
+      "ProjectGuid": "fc2ea636-5881-405d-af13-1f4f6e7edf00",
+      "DisplayName": "Variables",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
