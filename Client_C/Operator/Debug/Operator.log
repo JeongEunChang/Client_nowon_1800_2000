@@ -1,0 +1,4 @@
+﻿  Operator.c
+C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Operator\Operator.c(121,16): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Operator\Operator.c(125,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Operator.vcxproj -> C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Debug\Operator.exe

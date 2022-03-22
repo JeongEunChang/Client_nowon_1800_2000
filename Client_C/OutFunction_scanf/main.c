@@ -17,7 +17,7 @@ int main(void)
 
 
 
-	// sizeof 키워드
+	// sizeof 연산자
 	// 사용형태 : sizeof(자료형)
 	// 자료형에 해당하는 데이터 크기를 반환함
 	// 10*sizeof()
