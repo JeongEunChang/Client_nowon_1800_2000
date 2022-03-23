@@ -25,7 +25,22 @@
       "ProjectGuid": "bb8b8508-8689-4619-9d26-b9f3ec3929d5",
       "DisplayName": "Operator",
       "ColorIndex": 4
+    },
+    "b63583bc-6190-4ab1-9698-f66086584125": {
+      "ProjectGuid": "b63583bc-6190-4ab1-9698-f66086584125",
+      "DisplayName": "ControlStatement",
+      "ColorIndex": 5
+    },
+    "4570133f-6763-4a41-a28b-9549bb2dbfda": {
+      "ProjectGuid": "4570133f-6763-4a41-a28b-9549bb2dbfda",
+      "DisplayName": "ControlStatement_switch",
+      "ColorIndex": 6
+    },
+    "a77e3c9f-b0a0-483d-bbba-c7af2ca734e6": {
+      "ProjectGuid": "a77e3c9f-b0a0-483d-bbba-c7af2ca734e6",
+      "DisplayName": "ControlStatement_loop",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }
