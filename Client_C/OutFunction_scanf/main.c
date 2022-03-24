@@ -12,7 +12,10 @@ int main(void)
 	int a[5] = { 1, 2, 3, 4, 5 };
 
 
-	printf("%d", *a+1);
+	printf("%d\n", *a+1);
+
+
+	printf("%f", 80.0 / 5.0);
 
 
 

@@ -40,7 +40,22 @@
       "ProjectGuid": "a77e3c9f-b0a0-483d-bbba-c7af2ca734e6",
       "DisplayName": "ControlStatement_loop",
       "ColorIndex": 7
+    },
+    "4f3bfff3-4731-44e2-8bea-c5088e6ad60f": {
+      "ProjectGuid": "4f3bfff3-4731-44e2-8bea-c5088e6ad60f",
+      "DisplayName": "Function",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "6be8875f-e10f-43e6-bee1-4959df13c0df": {
+      "ProjectGuid": "6be8875f-e10f-43e6-bee1-4959df13c0df",
+      "DisplayName": "과제 1",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 10
 }
