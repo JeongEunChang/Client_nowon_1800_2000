@@ -1,6 +1,7 @@
 ﻿#include <stdio.h>
 
 // strcmp()
+// if(!strcmp("sum", op))
 
 int OperationCount;
 
@@ -52,7 +53,7 @@ int main(void)
 	int b = 0;
 	
 	while (1)
-	{
+	{	
 		printf("______________________________________________________________\n");
 		printf("sum 또는 sub 또는 div 또는 mul 또는 mod 를 입력해주세요.\n");
 		scanf_s("%s", index, 4);

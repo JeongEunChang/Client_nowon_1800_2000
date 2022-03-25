@@ -1,11 +1,12 @@
 #include <stdio.h>
-
+#include "test.h"
 
 // 반환형, 함수이름, (매개변수 자료형, 매개변수 이름)
 // { 연산 내용, 반환형 값 }
 int main(void)
 {
 
+	doSomething();
 	// 함수의 호출 형태
 	// 함수이름(인자1, 인자2, ...)
 
@@ -26,12 +27,10 @@ int main(void)
 // 만약에 register 키워드를 사용하는 게 적절하지 않다고 컴파일러가 판단하면 register 에 할당하지 않는다
 
 // 데이터 영역제 저장되는 변수들 ( 전역변수, 정적변수) 은 선언과 동시에 0 으로 초기화된다
-int sum(int a, int b)
-{
-	int tmpValue = a + b;
-	printf("%d\n", tmpValue);
-	
-	return tmpValue;
+int sum(){
+
+
+return 5;
 }
 
 // 필요한 함수 : 더하기, 빼기, 나누기, 곱하기, 나머지 기능마다 각각 하나씩

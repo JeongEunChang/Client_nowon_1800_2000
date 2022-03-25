@@ -55,7 +55,17 @@
       "ProjectGuid": "6be8875f-e10f-43e6-bee1-4959df13c0df",
       "DisplayName": "과제 1",
       "ColorIndex": 9
+    },
+    "c9a37a19-5702-4002-ba66-f1f5585a88dc": {
+      "ProjectGuid": "c9a37a19-5702-4002-ba66-f1f5585a88dc",
+      "DisplayName": "과제 2",
+      "ColorIndex": 10
+    },
+    "29549c8f-acec-49be-973e-aa236d42e64d": {
+      "ProjectGuid": "29549c8f-acec-49be-973e-aa236d42e64d",
+      "DisplayName": "pointer",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 12
 }
