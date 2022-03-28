@@ -1,2 +1,2 @@
-﻿함수 단원 과제.obj : error LNK2005: _main이(가) Function.obj에 이미 정의되어 있습니다.
-C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\Debug\Function.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+﻿  Function.c
+  Function.vcxproj -> C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Debug\Function.exe
