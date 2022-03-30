@@ -65,7 +65,37 @@
       "ProjectGuid": "29549c8f-acec-49be-973e-aa236d42e64d",
       "DisplayName": "pointer",
       "ColorIndex": 11
+    },
+    "8b49a1ca-54f0-4232-b0e8-9be0e2bf4444": {
+      "ProjectGuid": "8b49a1ca-54f0-4232-b0e8-9be0e2bf4444",
+      "DisplayName": "PointerAndArray",
+      "ColorIndex": 12
+    },
+    "420f4c79-466f-4353-b134-880daf2d88e5": {
+      "ProjectGuid": "420f4c79-466f-4353-b134-880daf2d88e5",
+      "DisplayName": "ConsoleApplication1",
+      "ColorIndex": 13
+    },
+    "bdad0f74-b634-46e4-b817-bafefbeda17f": {
+      "ProjectGuid": "bdad0f74-b634-46e4-b817-bafefbeda17f",
+      "DisplayName": "FunctionPointer",
+      "ColorIndex": 14
+    },
+    "ba131a23-a810-4fc7-928e-15e22b296480": {
+      "ProjectGuid": "ba131a23-a810-4fc7-928e-15e22b296480",
+      "DisplayName": "과제3",
+      "ColorIndex": 15
+    },
+    "44405552-fa0c-44e3-a57c-a2531090d5b4": {
+      "ProjectGuid": "44405552-fa0c-44e3-a57c-a2531090d5b4",
+      "DisplayName": "TypeDefine",
+      "ColorIndex": 0
+    },
+    "b5b8b3d6-7a1f-4f22-b6ea-e797c283494c": {
+      "ProjectGuid": "b5b8b3d6-7a1f-4f22-b6ea-e797c283494c",
+      "DisplayName": "Structure",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 2
 }

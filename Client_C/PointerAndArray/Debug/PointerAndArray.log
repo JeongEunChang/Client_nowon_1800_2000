@@ -1,0 +1,8 @@
+﻿  PointerAndArray.c
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\PointerAndArray\PointerAndArray.c(32,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\PointerAndArray\PointerAndArray.c(33,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\PointerAndArray\PointerAndArray.c(34,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[6]'입니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\PointerAndArray\PointerAndArray.c(35,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\PointerAndArray\PointerAndArray.c(36,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\PointerAndArray\PointerAndArray.c(27,1): warning C4047: '초기화 중': 'int *'의 간접 참조 수준이 'int (*)[6]'과(와) 다릅니다.
+  PointerAndArray.vcxproj -> C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\Debug\PointerAndArray.exe
