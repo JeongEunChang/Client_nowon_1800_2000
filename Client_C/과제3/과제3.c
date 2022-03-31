@@ -1,4 +1,4 @@
-﻿#include <iostream>
+﻿#include <stdio.h>
 
 double sum(double a, double b)
 {

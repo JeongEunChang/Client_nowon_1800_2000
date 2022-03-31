@@ -95,7 +95,17 @@
       "ProjectGuid": "b5b8b3d6-7a1f-4f22-b6ea-e797c283494c",
       "DisplayName": "Structure",
       "ColorIndex": 1
+    },
+    "95e87843-826b-4bbf-a7b1-81aac49a3b65": {
+      "ProjectGuid": "95e87843-826b-4bbf-a7b1-81aac49a3b65",
+      "DisplayName": "과제4",
+      "ColorIndex": 2
+    },
+    "d125b37f-a3a8-4993-a86d-090a85e3bd27": {
+      "ProjectGuid": "d125b37f-a3a8-4993-a86d-090a85e3bd27",
+      "DisplayName": "Union",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
