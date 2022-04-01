@@ -1,4 +1,6 @@
 ﻿  Structure.c
-C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Structure\Structure.c(51,11): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Structure\Structure.c(55,101): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Structure.vcxproj -> C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Debug\Structure.exe
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\Structure\Structure.c(51,11): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\Structure\Structure.c(55,101): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\Structure\Structure.c(87,33): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\Structure\Structure.c(49,21): warning C4101: 'studentP' :참조되지 않은 지역 변수입니다.
+  Structure.vcxproj -> C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\Debug\Structure.exe

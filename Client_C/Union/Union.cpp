@@ -53,6 +53,3 @@ int main(void)
 //    {"Dina"},
 //    {"StrongCompany"}
 //};
-
-
-// 공용체 크기 관련해서 조사해보기

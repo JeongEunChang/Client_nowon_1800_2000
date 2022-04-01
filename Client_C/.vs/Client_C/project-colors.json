@@ -105,7 +105,22 @@
       "ProjectGuid": "d125b37f-a3a8-4993-a86d-090a85e3bd27",
       "DisplayName": "Union",
       "ColorIndex": 3
+    },
+    "91c32d48-61bd-47a4-872e-341b02b10f92": {
+      "ProjectGuid": "91c32d48-61bd-47a4-872e-341b02b10f92",
+      "DisplayName": "연습용 페이지",
+      "ColorIndex": 4
+    },
+    "62e39183-a745-4fa3-8a0d-41ab8eba1d21": {
+      "ProjectGuid": "62e39183-a745-4fa3-8a0d-41ab8eba1d21",
+      "DisplayName": "Enum",
+      "ColorIndex": 5
+    },
+    "ea46856c-d4a9-4ba0-affe-111bf4da8560": {
+      "ProjectGuid": "ea46856c-d4a9-4ba0-affe-111bf4da8560",
+      "DisplayName": "DynamicMemory",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 7
 }
