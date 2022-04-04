@@ -1,5 +1,2 @@
 ﻿  연습용 페이지.c
-C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\연습용 페이지\연습용 페이지.c(38,101): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\연습용 페이지\연습용 페이지.c(40,86): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\연습용 페이지\연습용 페이지.c(32,7): warning C4101: 'studentList' :참조되지 않은 지역 변수입니다.
-  연습용 페이지.vcxproj -> C:\Users\jec99\Documents\GitHub\Client_nowon_1800_2000\Client_C\Debug\연습용 페이지.exe
+  연습용 페이지.vcxproj -> C:\Users\User\Documents\GitHub\Client_nowon_1800_2000\Client_C\Debug\연습용 페이지.exe

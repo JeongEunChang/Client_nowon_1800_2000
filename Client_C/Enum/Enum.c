@@ -3,13 +3,13 @@
 // FSM ( Finite State Machine )
 // 유한 상태 머신
 
-enum JumpState {
-	Idle,
-	PrepareToJump,
-	InFlight,
-	Falling,
-	OnGround,
-};
+//enum JumpState {
+//	Idle,
+//	PrepareToJump,
+//	InFlight,
+//	Falling,
+//	OnGround,
+//};
 
 // enum : 열거형, 사용자 정의 자료형을 정의하기 위한 키워드
 
@@ -33,7 +33,6 @@ enum PlayerState {
 
 int main(void)
 {
-
 	enum PlayerState playerState ;
 	playerState = Idle;
 

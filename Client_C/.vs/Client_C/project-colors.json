@@ -120,7 +120,17 @@
       "ProjectGuid": "ea46856c-d4a9-4ba0-affe-111bf4da8560",
       "DisplayName": "DynamicMemory",
       "ColorIndex": 6
+    },
+    "ba34ebe4-ca87-4c9c-9ae6-81a448b0a677": {
+      "ProjectGuid": "ba34ebe4-ca87-4c9c-9ae6-81a448b0a677",
+      "DisplayName": "연습용 페이지 2",
+      "ColorIndex": 7
+    },
+    "689de46f-6092-43a0-9793-5e84154c8ea2": {
+      "ProjectGuid": "689de46f-6092-43a0-9793-5e84154c8ea2",
+      "DisplayName": "FileInOut",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 9
 }
