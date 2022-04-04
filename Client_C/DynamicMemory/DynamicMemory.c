@@ -25,6 +25,17 @@
 // 이미 할당했지만 할당한 공간의 크기를 변경하고 싶을 때 & 기존 쓰던 주소를 유지하고 싶을 때
 // 만약 포인터가 null 일 경우, malloc 과 똑같이 동작한다
 
+// Dos 창에서 실행파일 실행 시
+// C\: > 실행파일 이름
+// 이라고 하면 단순 실행되지만 특별한 기능이나 옵션을 부여하고 싶을 때
+// C\: > 실행파일 이름 문자열1, 문자열2 ...
+// 형태로 써주면
+// 모든 문자열을 동적할당한 후에 main 함수 인자로 넘겨준다
+//
+// int main(int argc, char **argv)
+//
+// argc : argument count, 문자열 갯수
+// argv : argument vector, 문자열 배열, 끝에는 null 추가
 
 int main(void)
 {
@@ -40,7 +51,6 @@ int main(void)
 
    // free
    // 인자로 넣어준 포인터의 값 ( 주소 ) 에 접근해서
-   // 포인터의 자료형 크기만큼 메모리를 해제한다
    //
    // 선언된 변수의 주소를 포인터 대입해서 사용할 때는
    // 포인터는 스택영역의 주소를 가리키고 있기 때문에
@@ -55,6 +65,7 @@ int main(void)
 
 
    // calloc
+   // 초기화 과정이 한 번 더 들어가기 때문에 malloc 보다 덜 사용됨
    int count  = 16;
    p = (int*)calloc(16, sizeof(int));
    // p = malloc(16 * sizeof(int));
@@ -72,7 +83,7 @@ int main(void)
    free(p);
 
    // p = (int*)realloc(p, count * sizeof(int));
-
+   // p 에 저장된 주소로부터 연속되게 할당된 메모리는 전부 헤제
    // free(p);
 
     return 0;

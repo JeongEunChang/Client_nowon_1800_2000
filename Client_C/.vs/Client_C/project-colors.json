@@ -121,6 +121,7 @@
       "DisplayName": "DynamicMemory",
       "ColorIndex": 6
     },
+<<<<<<< HEAD
     "a4bbab40-153d-4a30-a9b2-63f0393d4dee": {
       "ProjectGuid": "a4bbab40-153d-4a30-a9b2-63f0393d4dee",
       "DisplayName": "연습용 페이지2",
@@ -128,4 +129,18 @@
     }
   },
   "NextColorIndex": 8
+=======
+    "ba34ebe4-ca87-4c9c-9ae6-81a448b0a677": {
+      "ProjectGuid": "ba34ebe4-ca87-4c9c-9ae6-81a448b0a677",
+      "DisplayName": "연습용 페이지 2",
+      "ColorIndex": 7
+    },
+    "689de46f-6092-43a0-9793-5e84154c8ea2": {
+      "ProjectGuid": "689de46f-6092-43a0-9793-5e84154c8ea2",
+      "DisplayName": "FileInOut",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+>>>>>>> 474e150c780cf37254afec6109554dad4ff9cbb4
 }

@@ -3,27 +3,9 @@
 #include <string.h>
 
 
-struct student {
-    int math;
-    int korean;
-    int english;
-    char name[20];
-    int average;
-};
-
-void change(struct student* studentA, struct student* studentB)
-{
-    struct student a;
-
-    a = *studentA;
-    *studentA = *studentB;
-    *studentB = a;
-
-}
-
-
 int main()
 {
+<<<<<<< HEAD
     struct student studentA;
 
     struct StudentList {
@@ -42,25 +24,19 @@ int main()
 
     struct student* studentAP;
     struct student* studentBP;
+=======
+    int** a;
+    int* b;
+    int c = 10;
+>>>>>>> 474e150c780cf37254afec6109554dad4ff9cbb4
 
-    studentAP = &studentA;
-    studentBP = &studentB;
+    a = &b;
+    b = &c;
 
-    change(studentAP, studentBP);
+    printf("%d", b[0]);
 
-    printf("%d\n", studentA.math);
-    printf("%d\n", studentA.korean);
-    printf("%d\n", studentA.english);
-    printf("%s\n", studentA.name);
-    printf("%d\n\n", studentA.average);
 
-    printf("%d\n", studentB.math);
-    printf("%d\n", studentB.korean);
-    printf("%d\n", studentB.english);
-    printf("%s\n", studentB.name);
-    printf("%d\n", studentB.average);
 
-    printf("%d", studentList.students->english)
 
     return 0;
 }

@@ -3,6 +3,7 @@
 // FSM ( Finite State Machine )
 // 유한 상태 머신
 
+<<<<<<< HEAD
 /*enum JumpState {
 	Idle,
 	PrepareToJump,
@@ -10,6 +11,15 @@
 	Falling,
 	OnGround,
 }*/;
+=======
+//enum JumpState {
+//	Idle,
+//	PrepareToJump,
+//	InFlight,
+//	Falling,
+//	OnGround,
+//};
+>>>>>>> 474e150c780cf37254afec6109554dad4ff9cbb4
 
 // enum : 열거형, 사용자 정의 자료형을 정의하기 위한 키워드
 
@@ -34,7 +44,10 @@ enum PlayerState {
 
 int main(void)
 {
+<<<<<<< HEAD
 	int a = 50;
+=======
+>>>>>>> 474e150c780cf37254afec6109554dad4ff9cbb4
 	enum PlayerState playerState ;
 
 	while (1) {
