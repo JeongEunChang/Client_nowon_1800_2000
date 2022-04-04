@@ -120,7 +120,12 @@
       "ProjectGuid": "ea46856c-d4a9-4ba0-affe-111bf4da8560",
       "DisplayName": "DynamicMemory",
       "ColorIndex": 6
+    },
+    "a4bbab40-153d-4a30-a9b2-63f0393d4dee": {
+      "ProjectGuid": "a4bbab40-153d-4a30-a9b2-63f0393d4dee",
+      "DisplayName": "연습용 페이지2",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

@@ -3,13 +3,13 @@
 // FSM ( Finite State Machine )
 // 유한 상태 머신
 
-enum JumpState {
+/*enum JumpState {
 	Idle,
 	PrepareToJump,
 	InFlight,
 	Falling,
 	OnGround,
-};
+}*/;
 
 // enum : 열거형, 사용자 정의 자료형을 정의하기 위한 키워드
 
@@ -18,8 +18,9 @@ enum PlayerState {
 	Walk,
 	Run,
 	Attack,
-	Jump,
+	asb,
 	Hurt,
+	Jump
 };
 
 // 플레이어 상태
@@ -33,9 +34,8 @@ enum PlayerState {
 
 int main(void)
 {
-
+	int a = 50;
 	enum PlayerState playerState ;
-	playerState = Idle;
 
 	while (1) {
 
@@ -61,6 +61,9 @@ int main(void)
 		case Hurt :
 			printf("피격 당하기");
 			break;
+		case asb :
+			printf("안녕하세요");
+			break;
 		default:
 			printf("무슨 동작인지 모르겠어요ㅠㅠ");
 			break;
@@ -72,3 +75,5 @@ int main(void)
 
 
 // 0으로 초기화 첫ㅅ번째 인덱스로 초기화
+
+// enum 초기화 해주는 이유?

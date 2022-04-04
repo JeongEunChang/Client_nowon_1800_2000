@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Enum", "Enum\Enum.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicMemory", "DynamicMemory\DynamicMemory.vcxproj", "{EA46856C-D4A9-4BA0-AFFE-111BF4DA8560}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "연습용 페이지2", "연습용 페이지2\연습용 페이지2.vcxproj", "{A4BBAB40-153D-4A30-A9B2-63F0393D4DEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{EA46856C-D4A9-4BA0-AFFE-111BF4DA8560}.Release|x64.Build.0 = Release|x64
 		{EA46856C-D4A9-4BA0-AFFE-111BF4DA8560}.Release|x86.ActiveCfg = Release|Win32
 		{EA46856C-D4A9-4BA0-AFFE-111BF4DA8560}.Release|x86.Build.0 = Release|Win32
+		{A4BBAB40-153D-4A30-A9B2-63F0393D4DEE}.Debug|x64.ActiveCfg = Debug|x64
+		{A4BBAB40-153D-4A30-A9B2-63F0393D4DEE}.Debug|x64.Build.0 = Debug|x64
+		{A4BBAB40-153D-4A30-A9B2-63F0393D4DEE}.Debug|x86.ActiveCfg = Debug|Win32
+		{A4BBAB40-153D-4A30-A9B2-63F0393D4DEE}.Debug|x86.Build.0 = Debug|Win32
+		{A4BBAB40-153D-4A30-A9B2-63F0393D4DEE}.Release|x64.ActiveCfg = Release|x64
+		{A4BBAB40-153D-4A30-A9B2-63F0393D4DEE}.Release|x64.Build.0 = Release|x64
+		{A4BBAB40-153D-4A30-A9B2-63F0393D4DEE}.Release|x86.ActiveCfg = Release|Win32
+		{A4BBAB40-153D-4A30-A9B2-63F0393D4DEE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

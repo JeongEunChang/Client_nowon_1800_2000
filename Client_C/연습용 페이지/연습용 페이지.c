@@ -29,7 +29,7 @@ int main()
     struct StudentList {
         struct student students[2];
         int num;
-    } studentList;
+    } studentList;)
 
     strcpy(studentA.name, "Likee");
     studentA.english = 80;

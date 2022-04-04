@@ -67,7 +67,6 @@ int main(void)
    for (int i = 0; i < count; i++)
    {
        printf("%d\n", p[i]);
-       p[3] = 50;
    }
 
    free(p);
