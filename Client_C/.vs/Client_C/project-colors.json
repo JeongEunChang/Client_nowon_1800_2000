@@ -1,109 +1,24 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "620d5791-b00b-4d1d-b80d-04dd57f31942": {
-      "ProjectGuid": "620d5791-b00b-4d1d-b80d-04dd57f31942",
-      "DisplayName": "Client_FirstProject",
+    "a4bbab40-153d-4a30-a9b2-63f0393d4dee": {
+      "ProjectGuid": "a4bbab40-153d-4a30-a9b2-63f0393d4dee",
+      "DisplayName": "연습용 페이지2",
       "ColorIndex": 0
     },
-    "5acdf72f-400a-4027-9916-81570d29a654": {
-      "ProjectGuid": "5acdf72f-400a-4027-9916-81570d29a654",
-      "DisplayName": "ConstantExpression",
+    "ea46856c-d4a9-4ba0-affe-111bf4da8560": {
+      "ProjectGuid": "ea46856c-d4a9-4ba0-affe-111bf4da8560",
+      "DisplayName": "DynamicMemory",
       "ColorIndex": 1
-    },
-    "fc2ea636-5881-405d-af13-1f4f6e7edf00": {
-      "ProjectGuid": "fc2ea636-5881-405d-af13-1f4f6e7edf00",
-      "DisplayName": "Variables",
-      "ColorIndex": 2
-    },
-    "3da063b4-48a1-4eb2-bcb5-999484a3bf17": {
-      "ProjectGuid": "3da063b4-48a1-4eb2-bcb5-999484a3bf17",
-      "DisplayName": "OutFunction_scanf",
-      "ColorIndex": 3
-    },
-    "bb8b8508-8689-4619-9d26-b9f3ec3929d5": {
-      "ProjectGuid": "bb8b8508-8689-4619-9d26-b9f3ec3929d5",
-      "DisplayName": "Operator",
-      "ColorIndex": 4
-    },
-    "b63583bc-6190-4ab1-9698-f66086584125": {
-      "ProjectGuid": "b63583bc-6190-4ab1-9698-f66086584125",
-      "DisplayName": "ControlStatement",
-      "ColorIndex": 5
-    },
-    "4570133f-6763-4a41-a28b-9549bb2dbfda": {
-      "ProjectGuid": "4570133f-6763-4a41-a28b-9549bb2dbfda",
-      "DisplayName": "ControlStatement_switch",
-      "ColorIndex": 6
-    },
-    "a77e3c9f-b0a0-483d-bbba-c7af2ca734e6": {
-      "ProjectGuid": "a77e3c9f-b0a0-483d-bbba-c7af2ca734e6",
-      "DisplayName": "ControlStatement_loop",
-      "ColorIndex": 7
-    },
-    "4f3bfff3-4731-44e2-8bea-c5088e6ad60f": {
-      "ProjectGuid": "4f3bfff3-4731-44e2-8bea-c5088e6ad60f",
-      "DisplayName": "Function",
-      "ColorIndex": 8
-    },
-    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
-      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
-      "DisplayName": "기타 파일",
-      "ColorIndex": -1
-    },
-    "6be8875f-e10f-43e6-bee1-4959df13c0df": {
-      "ProjectGuid": "6be8875f-e10f-43e6-bee1-4959df13c0df",
-      "DisplayName": "과제 1",
-      "ColorIndex": 9
-    },
-    "c9a37a19-5702-4002-ba66-f1f5585a88dc": {
-      "ProjectGuid": "c9a37a19-5702-4002-ba66-f1f5585a88dc",
-      "DisplayName": "과제 2",
-      "ColorIndex": 10
-    },
-    "29549c8f-acec-49be-973e-aa236d42e64d": {
-      "ProjectGuid": "29549c8f-acec-49be-973e-aa236d42e64d",
-      "DisplayName": "pointer",
-      "ColorIndex": 11
-    },
-    "8b49a1ca-54f0-4232-b0e8-9be0e2bf4444": {
-      "ProjectGuid": "8b49a1ca-54f0-4232-b0e8-9be0e2bf4444",
-      "DisplayName": "PointerAndArray",
-      "ColorIndex": 12
-    },
-    "420f4c79-466f-4353-b134-880daf2d88e5": {
-      "ProjectGuid": "420f4c79-466f-4353-b134-880daf2d88e5",
-      "DisplayName": "ConsoleApplication1",
-      "ColorIndex": 13
-    },
-    "bdad0f74-b634-46e4-b817-bafefbeda17f": {
-      "ProjectGuid": "bdad0f74-b634-46e4-b817-bafefbeda17f",
-      "DisplayName": "FunctionPointer",
-      "ColorIndex": 14
-    },
-    "ba131a23-a810-4fc7-928e-15e22b296480": {
-      "ProjectGuid": "ba131a23-a810-4fc7-928e-15e22b296480",
-      "DisplayName": "과제3",
-      "ColorIndex": 15
-    },
-    "44405552-fa0c-44e3-a57c-a2531090d5b4": {
-      "ProjectGuid": "44405552-fa0c-44e3-a57c-a2531090d5b4",
-      "DisplayName": "TypeDefine",
-      "ColorIndex": 0
-    },
-    "b5b8b3d6-7a1f-4f22-b6ea-e797c283494c": {
-      "ProjectGuid": "b5b8b3d6-7a1f-4f22-b6ea-e797c283494c",
-      "DisplayName": "Structure",
-      "ColorIndex": 1
-    },
-    "95e87843-826b-4bbf-a7b1-81aac49a3b65": {
-      "ProjectGuid": "95e87843-826b-4bbf-a7b1-81aac49a3b65",
-      "DisplayName": "과제4",
-      "ColorIndex": 2
     },
     "d125b37f-a3a8-4993-a86d-090a85e3bd27": {
       "ProjectGuid": "d125b37f-a3a8-4993-a86d-090a85e3bd27",
       "DisplayName": "Union",
+      "ColorIndex": 2
+    },
+    "b5b8b3d6-7a1f-4f22-b6ea-e797c283494c": {
+      "ProjectGuid": "b5b8b3d6-7a1f-4f22-b6ea-e797c283494c",
+      "DisplayName": "Structure",
       "ColorIndex": 3
     },
     "91c32d48-61bd-47a4-872e-341b02b10f92": {
@@ -116,31 +31,41 @@
       "DisplayName": "Enum",
       "ColorIndex": 5
     },
-    "ea46856c-d4a9-4ba0-affe-111bf4da8560": {
-      "ProjectGuid": "ea46856c-d4a9-4ba0-affe-111bf4da8560",
-      "DisplayName": "DynamicMemory",
-      "ColorIndex": 6
-    },
-<<<<<<< HEAD
-    "a4bbab40-153d-4a30-a9b2-63f0393d4dee": {
-      "ProjectGuid": "a4bbab40-153d-4a30-a9b2-63f0393d4dee",
-      "DisplayName": "연습용 페이지2",
-      "ColorIndex": 7
-    }
-  },
-  "NextColorIndex": 8
-=======
     "ba34ebe4-ca87-4c9c-9ae6-81a448b0a677": {
       "ProjectGuid": "ba34ebe4-ca87-4c9c-9ae6-81a448b0a677",
       "DisplayName": "연습용 페이지 2",
+      "ColorIndex": 6
+    },
+    "8b49a1ca-54f0-4232-b0e8-9be0e2bf4444": {
+      "ProjectGuid": "8b49a1ca-54f0-4232-b0e8-9be0e2bf4444",
+      "DisplayName": "PointerAndArray",
       "ColorIndex": 7
     },
     "689de46f-6092-43a0-9793-5e84154c8ea2": {
       "ProjectGuid": "689de46f-6092-43a0-9793-5e84154c8ea2",
       "DisplayName": "FileInOut",
       "ColorIndex": 8
+    },
+    "bdad0f74-b634-46e4-b817-bafefbeda17f": {
+      "ProjectGuid": "bdad0f74-b634-46e4-b817-bafefbeda17f",
+      "DisplayName": "FunctionPointer",
+      "ColorIndex": 9
+    },
+    "56f6b86f-797c-41fe-94ab-c478c0f2228d": {
+      "ProjectGuid": "56f6b86f-797c-41fe-94ab-c478c0f2228d",
+      "DisplayName": "연습문제1",
+      "ColorIndex": 10
+    },
+    "5acdf72f-400a-4027-9916-81570d29a654": {
+      "ProjectGuid": "5acdf72f-400a-4027-9916-81570d29a654",
+      "DisplayName": "ConstantExpression",
+      "ColorIndex": 11
+    },
+    "29549c8f-acec-49be-973e-aa236d42e64d": {
+      "ProjectGuid": "29549c8f-acec-49be-973e-aa236d42e64d",
+      "DisplayName": "pointer",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 9
->>>>>>> 474e150c780cf37254afec6109554dad4ff9cbb4
+  "NextColorIndex": 13
 }
