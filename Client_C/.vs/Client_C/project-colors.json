@@ -65,7 +65,27 @@
       "ProjectGuid": "29549c8f-acec-49be-973e-aa236d42e64d",
       "DisplayName": "pointer",
       "ColorIndex": 12
+    },
+    "75498fd8-f907-42ed-89a5-b31cb269fdc4": {
+      "ProjectGuid": "75498fd8-f907-42ed-89a5-b31cb269fdc4",
+      "DisplayName": "FileInOut",
+      "ColorIndex": 13
+    },
+    "fc2ea636-5881-405d-af13-1f4f6e7edf00": {
+      "ProjectGuid": "fc2ea636-5881-405d-af13-1f4f6e7edf00",
+      "DisplayName": "Variables",
+      "ColorIndex": 14
+    },
+    "95e87843-826b-4bbf-a7b1-81aac49a3b65": {
+      "ProjectGuid": "95e87843-826b-4bbf-a7b1-81aac49a3b65",
+      "DisplayName": "과제4",
+      "ColorIndex": 15
+    },
+    "ba131a23-a810-4fc7-928e-15e22b296480": {
+      "ProjectGuid": "ba131a23-a810-4fc7-928e-15e22b296480",
+      "DisplayName": "과제3",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 1
 }

@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{689de46f-6092-43a0-9793-5e84154c8ea2}</ProjectGuid>
+    <ProjectGuid>{75498fd8-f907-42ed-89a5-b31cb269fdc4}</ProjectGuid>
     <RootNamespace>FileInOut</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FileInOut.cpp" />
+    <ClCompile Include="FileInOut.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
