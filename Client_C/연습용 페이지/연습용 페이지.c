@@ -2,22 +2,25 @@
 #include <stdio.h>
 #include <string.h>
 
-void FirstCharSwap(char* arr1, char* arr2) {
-
-    char tmpChar = arr1[0];
-    arr1[0] = arr2[0];
-    arr2[0] = arr1[1];
-}
-
 int main()
 {
-    char** app;
+    FILE* practice = fopen("practice.txt", "w+");
 
+    if (practice == NULL) {
+        printf("fail to open a.txt file.");
+        exit(1);
+    }
+    
 
+    //fputc('s', practice);
 
-    char a[100] = "asdfasdfasd";
-    char b[100] = "qwerqwerqw";
-    strcpy(a[0], b[0]);
-    printf("%s\n", a);
+    printf("%c", fgetc(practice));
+
+    fputc('s', practice);
+    printf("%c", fgetc(practice));
+    fclose(practice);
+
+    
+
     return 0;
 }
